@@ -217,6 +217,21 @@ footer {
     font-weight: 600;
 }
 
+.full-text {
+    box-shadow: 0 0 20px #39ff14;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    color: #e0ffe0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
 @media only screen and (max-width: 1320px) {
     .card img {
         height: 250px;

@@ -6,7 +6,7 @@ let footer = `<div class="footer-contenido">
         </a>
     </li>
     <li>
-        <a href="https://https://github.com/NicolasPergolani" target="_blank">
+        <a href="https://github.com/NicolasPergolani" target="_blank">
             <i class="fa-brands fa-github"></i> GitHub
         </a>
     </li>
@@ -20,7 +20,7 @@ Flaticon</a>`;
 
 document.getElementById("idFooter").innerHTML = footer
 
-let header = `  <a href="Index.html"> <div class="logo">Nicolas Pergolani CV     </div></a> 
+let header = `  <a href="Index.html"> <div class="logo">Nicolas Pergolani Portfolio</div></a> 
 <div class="hamburger">
     <div class="line"></div>
     <div class="line"></div>
@@ -29,10 +29,16 @@ let header = `  <a href="Index.html"> <div class="logo">Nicolas Pergolani CV    
 <nav class="nav-bar">
 <ul>
 <li>
-    <a href="Index.html">Inicio</a>
+    <a href="Index.html">Index</a>
 </li>
 <li>
-    <a href="downloadCV.html">CV</a>
+    <a href="softwareKnowledge.html">Software Knowledge</a>
+</li>
+<li>
+    <a href="workExperience.html">Work Experience</a>
+</li>
+<li>
+    <a href="aboutMe.html">About Me</a>
 </li>
 </ul>
 </nav>`
