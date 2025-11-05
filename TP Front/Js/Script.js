@@ -13,7 +13,7 @@ let footer = `<div class="footer-contenido">
 </ul>
 </div>
 <div class="bottom">
-<p> Copyright & Diseño<span style="color:#0e0f10"> Pergolani Nicolas</span></p>
+<p> Copyright & Design<span style="color: #4da6ff"> Pergolani Nicolas</span></p>
 </div>
 <a href="https://www.flaticon.com/free-icons/plus" title="plus icons">Plus icons created by Freepik -
 Flaticon</a>`;
