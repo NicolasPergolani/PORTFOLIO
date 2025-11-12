@@ -24,6 +24,8 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 100px;
+    position: relative;
+    z-index: 1000;
 }
 
 .icon {
@@ -370,6 +372,7 @@ h1, h2 {
         background: #1a2332;
         transition: 0.5s ease;
         overflow: hidden;
+        z-index: 999;
     }
     .nav-bar.active {
         height: 350px;
